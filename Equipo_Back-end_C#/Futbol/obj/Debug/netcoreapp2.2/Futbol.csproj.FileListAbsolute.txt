@@ -1,0 +1,16 @@
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\bin\Debug\netcoreapp2.2\Futbol.deps.json
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\bin\Debug\netcoreapp2.2\Futbol.runtimeconfig.json
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\bin\Debug\netcoreapp2.2\Futbol.runtimeconfig.dev.json
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\bin\Debug\netcoreapp2.2\Futbol.dll
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\bin\Debug\netcoreapp2.2\Futbol.pdb
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\obj\Debug\netcoreapp2.2\Futbol.csprojAssemblyReference.cache
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\obj\Debug\netcoreapp2.2\Futbol.RazorAssemblyInfo.cache
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\obj\Debug\netcoreapp2.2\Futbol.RazorAssemblyInfo.cs
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\obj\Debug\netcoreapp2.2\Futbol.AssemblyInfoInputs.cache
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\obj\Debug\netcoreapp2.2\Futbol.AssemblyInfo.cs
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\obj\Debug\netcoreapp2.2\Futbol.RazorTargetAssemblyInfo.cache
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\obj\Debug\netcoreapp2.2\Futbol.dll
+C:\Users\Fidel\source\repos\Futbol\FutbolApi\Futbol\obj\Debug\netcoreapp2.2\Futbol.pdb
